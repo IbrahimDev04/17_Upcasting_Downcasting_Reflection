@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "17_Upcasting_Downcasting_Reflection/1.0.0": {
+        "runtime": {
+          "17_Upcasting_Downcasting_Reflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17_Upcasting_Downcasting_Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\bin\Debug\net6.0\Generic_Constractor.exe
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\bin\Debug\net6.0\Generic_Constractor.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\bin\Debug\net6.0\Generic_Constractor.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\bin\Debug\net6.0\Generic_Constractor.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\bin\Debug\net6.0\Generic_Constractor.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\obj\Debug\net6.0\Generic_Constractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\obj\Debug\net6.0\Generic_Constractor.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\obj\Debug\net6.0\Generic_Constractor.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\obj\Debug\net6.0\Generic_Constractor.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\obj\Debug\net6.0\Generic_Constractor.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\obj\Debug\net6.0\refint\Generic_Constractor.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\obj\Debug\net6.0\Generic_Constractor.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\obj\Debug\net6.0\Generic_Constractor.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Constractor\Generic_Constractor\obj\Debug\net6.0\ref\Generic_Constractor.dll

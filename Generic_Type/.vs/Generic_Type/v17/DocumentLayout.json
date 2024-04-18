@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\Generic_Type\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1357B6D4-AFE4-4A97-A1E3-74012AE1C1FE}|Generic_Type\\Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\17_upcasting_downcasting_reflection\\generic_type\\generic_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357B6D4-AFE4-4A97-A1E3-74012AE1C1FE}|Generic_Type\\Generic_Type.csproj|solutionrelative:generic_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357B6D4-AFE4-4A97-A1E3-74012AE1C1FE}|Generic_Type\\Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\17_upcasting_downcasting_reflection\\generic_type\\generic_type\\models\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357B6D4-AFE4-4A97-A1E3-74012AE1C1FE}|Generic_Type\\Generic_Type.csproj|solutionrelative:generic_type\\models\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericList.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\Generic_Type\\Generic_Type\\Models\\GenericList.cs",
+              "RelativeDocumentMoniker": "Generic_Type\\Models\\GenericList.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\Generic_Type\\Generic_Type\\Models\\GenericList.cs",
+              "RelativeToolTip": "Generic_Type\\Models\\GenericList.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:09:14.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\Generic_Type\\Generic_Type\\Program.cs",
+              "RelativeDocumentMoniker": "Generic_Type\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\Generic_Type\\Generic_Type\\Program.cs",
+              "RelativeToolTip": "Generic_Type\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:08:37.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

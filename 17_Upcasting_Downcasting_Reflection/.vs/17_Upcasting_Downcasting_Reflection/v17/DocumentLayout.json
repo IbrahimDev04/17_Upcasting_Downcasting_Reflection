@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\17_upcasting_downcasting_reflection\\17_upcasting_downcasting_reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|solutionrelative:17_upcasting_downcasting_reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\17_upcasting_downcasting_reflection\\17_upcasting_downcasting_reflection\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|solutionrelative:17_upcasting_downcasting_reflection\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\17_upcasting_downcasting_reflection\\17_upcasting_downcasting_reflection\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|solutionrelative:17_upcasting_downcasting_reflection\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\17_upcasting_downcasting_reflection\\17_upcasting_downcasting_reflection\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|solutionrelative:17_upcasting_downcasting_reflection\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\17_upcasting_downcasting_reflection\\17_upcasting_downcasting_reflection\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|solutionrelative:17_upcasting_downcasting_reflection\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\17_upcasting_downcasting_reflection\\17_upcasting_downcasting_reflection\\models\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|solutionrelative:17_upcasting_downcasting_reflection\\models\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\17_upcasting_downcasting_reflection\\17_upcasting_downcasting_reflection\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE0E6E-DAC8-4857-80B4-8CC597646B2D}|17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection.csproj|solutionrelative:17_upcasting_downcasting_reflection\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Lion.cs",
+              "RelativeDocumentMoniker": "17_Upcasting_Downcasting_Reflection\\Models\\Lion.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Lion.cs",
+              "RelativeToolTip": "17_Upcasting_Downcasting_Reflection\\Models\\Lion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:45:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Cow.cs",
+              "RelativeDocumentMoniker": "17_Upcasting_Downcasting_Reflection\\Models\\Cow.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Cow.cs",
+              "RelativeToolTip": "17_Upcasting_Downcasting_Reflection\\Models\\Cow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:37:41.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "17_Upcasting_Downcasting_Reflection\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Animal.cs",
+              "RelativeToolTip": "17_Upcasting_Downcasting_Reflection\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:26:00.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Meat.cs",
+              "RelativeDocumentMoniker": "17_Upcasting_Downcasting_Reflection\\Models\\Meat.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Meat.cs",
+              "RelativeToolTip": "17_Upcasting_Downcasting_Reflection\\Models\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:24:11.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Grass.cs",
+              "RelativeDocumentMoniker": "17_Upcasting_Downcasting_Reflection\\Models\\Grass.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Grass.cs",
+              "RelativeToolTip": "17_Upcasting_Downcasting_Reflection\\Models\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:23:05.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "17_Upcasting_Downcasting_Reflection\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Models\\Food.cs",
+              "RelativeToolTip": "17_Upcasting_Downcasting_Reflection\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:19:55.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "17_Upcasting_Downcasting_Reflection\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\17_Upcasting_Downcasting_Reflection\\17_Upcasting_Downcasting_Reflection\\Program.cs",
+              "RelativeToolTip": "17_Upcasting_Downcasting_Reflection\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:18:37.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

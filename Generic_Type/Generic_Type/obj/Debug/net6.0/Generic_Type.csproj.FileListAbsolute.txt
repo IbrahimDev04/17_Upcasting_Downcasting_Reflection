@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\bin\Debug\net6.0\Generic_Type.exe
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\bin\Debug\net6.0\Generic_Type.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\bin\Debug\net6.0\Generic_Type.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\bin\Debug\net6.0\Generic_Type.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\bin\Debug\net6.0\Generic_Type.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\obj\Debug\net6.0\Generic_Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\obj\Debug\net6.0\Generic_Type.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\obj\Debug\net6.0\Generic_Type.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\obj\Debug\net6.0\Generic_Type.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\obj\Debug\net6.0\Generic_Type.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\obj\Debug\net6.0\refint\Generic_Type.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\obj\Debug\net6.0\Generic_Type.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\obj\Debug\net6.0\Generic_Type.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\17_Upcasting_Downcasting_Reflection\Generic_Type\Generic_Type\obj\Debug\net6.0\ref\Generic_Type.dll

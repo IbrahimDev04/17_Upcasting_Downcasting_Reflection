@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Generic_Constractor/1.0.0": {
+        "runtime": {
+          "Generic_Constractor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generic_Constractor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
